@@ -1,2 +1,7 @@
 The point layer of each municipality in Overijssel province and the polygon layer of the cities of Overijssel are used in this research to generate choropleth map, proportional symbol map and diagram map. 
 The point and polygon layers of Beijing are used to validate whether the improved styling descriptor is feasible for all kinds of vector layers or not.
+
+This research used the vector data of Beijing to prove these two extensions can be used to any vector data. 
+
+This research used the new extension with the original function in the current standards to prove that the new extensions do not affect the use of the original function.
+
